@@ -1,0 +1,8 @@
+okta:
+  oauth2:
+    issuer: https://dev-533919.oktapreview.com/oauth2/default
+    client-id: 0oakz4teswoV7sDZI0h7
+    client-secret: PXBGQfL-t1qhnt7XpezxgG5X_frTdsvRpzctEMvy
+spring:
+  thymeleaf:
+    cache: false
